@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+label {
+  font-family: Arial;
+  font-size: 15px;
+  text-align: center;
+  /* margin-left: 25px; */
+  padding-top: 25px;
+  padding-bottom: 15px;
+  display: block;
+}
+div {
+  margin: 0 auto;
+  text-align: center;
+}
+span {
+  width: 100px;
+  /* background: #FD7272; */
+  color: #ff5252;
+  position: absolute;
+}
+input {
+  border-radius: 25px;
+  padding: 7px;
+  padding-left: 20px;
+  color: #636e72;
+  outline: none;
+  border: 1px solid #b2bec3;
+}
+button {
+  padding: 10px;
+  margin-top: 10px;
+  background: #00b894;
+  outline: none;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 20px;
+}
+.noname {
+  border: 1px solid red;
+}
+.okayname {
+  border: 1px solid green;
+}
